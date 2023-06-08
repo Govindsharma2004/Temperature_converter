@@ -1,0 +1,48 @@
+body {
+    background-color: skyblue;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: blue;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 120px auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.converter {
+    background-color: rgba(78, 89, 69, 0.7);
+    padding: 25px;
+    border-radius: 15px;
+}
+
+input[type="number"] {
+    width: 120px;
+    padding: 7px;
+    margin-right: 12px;
+}
+
+select {
+    padding: 7px;
+    margin-right: 12px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: lightpink;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+h3 {
+    margin-top: 25px;
+}
